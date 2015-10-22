@@ -109,8 +109,6 @@ def Help():
 
 def main():
     arg = sys.argv
-    with open('./sxlast.txt','w+') as file:
-        file.write(time.strftime("%x %X"))
     if (len(arg) > 1):
         if arg[1] == 'tp':
             while True:
