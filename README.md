@@ -14,6 +14,6 @@ python Router_Dial.py
 * d. You can use your Router as a AP to surfer the Internet now.
 
 ## Notice
-Now the script just for TP_Link, We hope you can help us to make it more stronger. Thx.
+Now the script just for TP-Link, We hope you can help us to make it more stronger. Thx.
 
 ## Enjoy it!
