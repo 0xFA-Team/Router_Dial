@@ -9,7 +9,7 @@ git clone https://github.com/0xFA-Team/Router_Dial
 * b. Edit `Router_Dial.py` to replace router `username`/`password` dial `username`/`password` with your own.
 * c. Type the follow command to dial.
 ```
-pyton Router_Dial.py
+python Router_Dial.py
 ```
 * d. You can use your Router as a AP to surfer the Internet now.
 
